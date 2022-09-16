@@ -41,7 +41,7 @@ def cubicbSpline(xi,x, xii, mi, mii, yi, yii):
     return y
     
 
-x_values = [1, 2, 3, 4]
+x_values = [0, 1, 2, 3]
 y_values = [1, 2, 9, 28]
 x = 2.5
 sides = find_sides(x_values, 2.5)
