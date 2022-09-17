@@ -1,4 +1,3 @@
-// C++ code for the above approach
 
 #include <algorithm>
 #include <iostream>
