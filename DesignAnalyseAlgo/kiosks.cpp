@@ -68,6 +68,21 @@ void printArray(int A[], int size)
 	for (auto i = 0; i < size; i++)
 		cout << A[i] << " ";
 }
+int nearest_neighbor(int array[], int n, int val, int index_val, int end, bool side)
+{
+    int mid = (end-index_val)/2;
+    if(side)
+    {
+
+    }
+}
+int find_Range(int array[], int n, int val)
+{
+    int rval= val+50;
+    int lval = val-50;
+    
+}
+
 
 // Driver code
 int main()
