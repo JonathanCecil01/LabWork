@@ -38,6 +38,8 @@ void printJobScheduling(Job arr[], int n)
 }
 
 // Driver's code
+//Job Sequencing 
+
 int main()
 {
 	Job arr[] = { { 'a', 2, 100 },
